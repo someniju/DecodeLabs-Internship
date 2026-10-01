@@ -43,6 +43,23 @@ The project involved the following steps:
 | `Cleaned_Data_Analytics.xlsx` | Cleaned dataset generated using Python |
 | `Cleaned_Data_Analytics.csv` | Cleaned dataset in CSV format |
 | `data_cleaning.py` | Python/Pandas data-cleaning script |
+## 🖥️ Project Screenshots
+
+### Python / Pandas Data Cleaning
+
+![Python Data Cleaning](img_1.png)
+
+### Data Cleaning Process
+
+![Data Cleaning Process](img_2.png)
+
+### Data Validation & Analysis
+
+![Data Validation](img_7.png)
+
+### Python Data Cleaning Code
+
+![Python Code](img_8.png)
 
 ## 🔄 Project Workflow
 
